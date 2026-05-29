@@ -6,7 +6,7 @@ Bot Discord qui supprime tous les salons d'un serveur via la commande `/delete`,
 
 ## 📋 Prérequis
 
-- Un Mac avec **Node.js** installé
+- Un ordinateur avec **Node.js** installé
 - Un compte Discord avec accès au [Developer Portal](https://discord.com/developers/applications)
 - Être **administrateur** sur le serveur Discord cible
 
